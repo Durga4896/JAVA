@@ -53,7 +53,6 @@ To build strong Java fundamentals through consistent daily practice and structur
 
 ## 📈 Progress
 
-* Following 57-day roadmap
 * Writing code daily
 * Improving problem-solving skills
 
